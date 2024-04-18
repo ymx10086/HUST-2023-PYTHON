@@ -1,0 +1,11 @@
+python=3.8
+torch=1.11.0+cu113
+pandas
+matplotlib
+wordcloud
+transformers
+ipdb
+datasets
+tqdm
+nltk
+torchviz
